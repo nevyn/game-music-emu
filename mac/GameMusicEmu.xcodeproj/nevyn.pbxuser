@@ -1,0 +1,148 @@
+// !$*UTF8*$!
+{
+	056D86060F17462000A269E7 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 056D872A0F17484800A269E7 /* Player demo */;
+		activeTarget = 056D87280F17484800A269E7 /* Player demo */;
+		addToTargets = (
+			056D87280F17484800A269E7 /* Player demo */,
+		);
+		codeSenseManager = 056D860B0F17462000A269E7 /* Code sense */;
+		executables = (
+			056D872A0F17484800A269E7 /* Player demo */,
+		);
+		ignoreBreakpointsInProjectsDict = {
+		};
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 253297851;
+			PBXWorkspaceStateSaveDate = 253297851;
+		};
+		sourceControlManager = 056D860A0F17462000A269E7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	056D860A0F17462000A269E7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	056D860B0F17462000A269E7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	056D86210F17467500A269E7 /* gmelib */ = {
+		activeExec = 0;
+	};
+	056D862E0F17469B00A269E7 /* blargg_common.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 2492}}";
+			sepNavSelRange = "{540, 0}";
+			sepNavVisRange = "{203, 1253}";
+			sepNavWindowFrame = "{{15, 110}, {763, 763}}";
+		};
+	};
+	056D862F0F17469B00A269E7 /* blargg_config.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 683}}";
+			sepNavSelRange = "{833, 0}";
+			sepNavVisRange = "{0, 833}";
+			sepNavWindowFrame = "{{38, 89}, {763, 763}}";
+		};
+	};
+	056D86620F17469B00A269E7 /* Nes_Cpu.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 15526}}";
+			sepNavSelRange = "{3555, 35}";
+			sepNavVisRange = "{2614, 1475}";
+			sepNavWindowFrame = "{{193, 258}, {763, 763}}";
+		};
+	};
+	056D86630F17469B00A269E7 /* Nes_Cpu.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 1554}}";
+			sepNavSelRange = "{531, 0}";
+			sepNavVisRange = "{0, 1450}";
+			sepNavWindowFrame = "{{84, 197}, {763, 763}}";
+		};
+	};
+	056D87020F17474A00A269E7 /* Audio_Scope.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 2632}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2099, 1066}";
+			sepNavWindowFrame = "{{1764, 139}, {763, 763}}";
+		};
+	};
+	056D87030F17474A00A269E7 /* Audio_Scope.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 683}}";
+			sepNavSelRange = "{200, 0}";
+			sepNavVisRange = "{0, 782}";
+			sepNavWindowFrame = "{{282, 82}, {763, 763}}";
+		};
+	};
+	056D87040F17474A00A269E7 /* Music_Player.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 2898}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2003, 1006}";
+			sepNavWindowFrame = "{{1741, 164}, {763, 763}}";
+		};
+	};
+	056D87050F17474A00A269E7 /* Music_Player.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 910}}";
+			sepNavSelRange = "{555, 0}";
+			sepNavVisRange = "{0, 1365}";
+			sepNavWindowFrame = "{{1718, 189}, {763, 763}}";
+		};
+	};
+	056D87060F17474A00A269E7 /* player.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 2954}}";
+			sepNavSelRange = "{2040, 0}";
+			sepNavVisRange = "{1656, 1043}";
+			sepNavWindowFrame = "{{419, 81}, {763, 763}}";
+		};
+	};
+	056D87280F17484800A269E7 /* Player demo */ = {
+		activeExec = 0;
+		executables = (
+			056D872A0F17484800A269E7 /* Player demo */,
+		);
+	};
+	056D872A0F17484800A269E7 /* Player demo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Player demo";
+		sourceDirectories = (
+		);
+	};
+	056D873E0F17486B00A269E7 /* SDLMain.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {704, 3570}}";
+			sepNavSelRange = "{1330, 0}";
+			sepNavVisRange = "{707, 1460}";
+			sepNavWindowFrame = "{{38, 89}, {763, 763}}";
+		};
+	};
+}
